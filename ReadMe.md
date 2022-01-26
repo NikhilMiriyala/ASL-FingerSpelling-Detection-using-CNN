@@ -1,12 +1,5 @@
 ## ASL Finger Spelling Detection Project
 
-### Group - 39
-#### Nikhil Sagar Miriyala
-#### Preetam Prasad Gajula
-#### Arjun Ashok Kumar
-#### Aniruddha Bhowmik
-
-
 ### Description:
 To predict the american sign language based alphabets and words using a feature extractor and a CNN Model
 
